@@ -12,6 +12,10 @@ Gemini can detect and return **2D bounding boxes** around relevant regions in an
 
 📦 **Output Format**: Coordinates are returned as `[y1, x1, y2, x2]` and **normalized to a [0, 1000] scale**. When visualizing, make sure to **denormalize** these values relative to the actual image size.
 
+
+<img src="https://github.com/janithaDassanayake/dummyimages/blob/main/download%20(13).png" alt="Gemini 2.5 Pro Experimental Benchmarks1" />
+
+<br>
 ### 🧠 2. Visual Reasoning
 Beyond simple detection, Gemini supports **visual reasoning**—enabling it to:
 - Understand spatial relationships
@@ -21,6 +25,9 @@ Beyond simple detection, Gemini supports **visual reasoning**—enabling it to:
 
 This allows for more nuanced and intelligent interaction with images using just natural language.
 
+<img src="https://github.com/janithaDassanayake/dummyimages/blob/main/download%20(14).png" alt="Gemini 2.5 Pro Experimental Benchmarks" />
+
+<br>
 ### 🖋️ 3. Visual Captioning
 Gemini can generate detailed, human-like **captions** that describe:
 - Shapes, colors, textures
@@ -28,9 +35,9 @@ Gemini can generate detailed, human-like **captions** that describe:
 - Scene context and interactions
 
 These captions enhance explainability and are useful for applications like content summarization, accessibility, automation, and visual documentation.
+<img src="https://github.com/janithaDassanayake/dummyimages/blob/main/ddddddd.JPG" alt="Gemini 2.5 Pro Experimental Benchmarks3" />
 
----
-
+<br>
 ### 🛠️ Technical Notes
 
 - 💡 **Models**: Uses either `Gemini 2.0 Flash` (fast) or `Gemini 2.5 Pro` (more accurate).
