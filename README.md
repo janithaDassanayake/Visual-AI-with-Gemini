@@ -35,9 +35,10 @@ Gemini can generate detailed, human-like **captions** that describe:
 - Scene context and interactions
 
 These captions enhance explainability and are useful for applications like content summarization, accessibility, automation, and visual documentation.
+
+
 <img src="https://github.com/janithaDassanayake/dummyimages/blob/main/ddddddd.JPG" alt="Gemini 2.5 Pro Experimental Benchmarks3" />
 
-<br>
 ### 🛠️ Technical Notes
 
 - 💡 **Models**: Uses either `Gemini 2.0 Flash` (fast) or `Gemini 2.5 Pro` (more accurate).
