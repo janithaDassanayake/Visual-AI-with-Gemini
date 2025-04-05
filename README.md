@@ -1,5 +1,6 @@
 
-## 📦 Visual AI with Gemini: Detection, Captioning, Reasoning, OCR
+## 📦 Visual AI with Gemini: Detection, Captioning, Reasoning, OCR <a target="_blank" href="https://drive.google.com/file/d/1YsB373DQ8by7P-H5zVA_C9QiWmXDhyXK/view?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 Object detection is a core task in computer vision, enabling systems to identify and localize objects, features, or areas of interest within images. With the advent of multimodal large language models like Google’s **Gemini 2.0 Flash** and **Gemini 2.5 Pro**, these capabilities can now be harnessed using **natural language prompts**—removing the need for traditional fine-tuning workflows or large annotated datasets.
 
