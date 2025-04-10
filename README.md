@@ -13,8 +13,9 @@ Gemini can detect and return **2D bounding boxes** around relevant regions in an
 
 📦 **Output Format**: Coordinates are returned as `[y1, x1, y2, x2]` and **normalized to a [0, 1000] scale**. When visualizing, make sure to **denormalize** these values relative to the actual image size.
 
-
-<img src="https://github.com/janithaDassanayake/dummyimages/blob/main/download%20(13).png" alt="Gemini 2.5 Pro Experimental Benchmarks1" />
+<img src="https://github.com/janithaDassanayake/dummyimages/blob/main/download%20(26).png" alt="Gemini 2.5 Pro Experimental Benchmarks" />
+<br>
+<img src="https://github.com/janithaDassanayake/dummyimages/blob/main/download%20(28).png" alt="Gemini 2.5 Pro Experimental Benchmarks1" />
 
 <br>
 ### 🧠 2. Visual Reasoning
